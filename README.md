@@ -7,3 +7,7 @@
 
 * Network
   
+ ![](https://github.com/alminagorta/Aurora_Water_Colorado/blob/main/Pic/Network1.png)
+ 
+ <img src="https://github.com/alminagorta/Aurora_Water_Colorado/blob/main/Pic/Map1.png" width=500/><img src="https://github.com/alminagorta/Aurora_Water_Colorado/blob/main/Pic/Network1.png" width=500/>
+ 
